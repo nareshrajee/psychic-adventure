@@ -1,0 +1,1 @@
+rank() over(partition by dept order by saary) from tabl;
